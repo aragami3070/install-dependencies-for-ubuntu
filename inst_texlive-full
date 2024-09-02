@@ -2,6 +2,6 @@ sudo apt-get update
 
 sudo apt-get install texlive-full
 
-sudo apt-get install python-pygments
+sudo apt-get install python3-pygments
 
 sudo apt-get install texlive-latex-extra
