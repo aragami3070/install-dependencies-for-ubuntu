@@ -1,0 +1,6 @@
+sudo add-apt-repository ppa:neovim-ppa/unstable
+sudo apt-get update
+sudo apt-get install neovim
+sudo apt install xclip
+cd ~/.config
+git clone git@github.com:aragami3070/nvim.git
