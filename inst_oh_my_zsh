@@ -6,11 +6,11 @@ git clone git@github.com:aragami3070/zsh.git
 
 cd zsh
 
+mv -t ../ .git
+
 mv * ../
 
 mv .* ../
-
-mv -t ../ .git
 
 cd 
 
